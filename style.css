@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/images/leptop.jpg") no-repeat center;
+    background-color: rgb(24, 20, 20);
     height: 100vh;
     color: #fff;
     min-height: 500px;
